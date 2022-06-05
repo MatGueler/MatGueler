@@ -1,9 +1,15 @@
-## Hello!! Welcome to my page, i'm Mateus Gueler Machado
+## Hello!! Welcome to my page
 
 - 🔭 Physics student at Federal University of Espirito Santo
 - 💻 Full Stack web development student at Driven
 - 🐶 I have 4 dogs (Bob, Mel, Leka e Zoe), and i love animals
 - 😎 In love with beach and sun
+
+
+
+<img align="right" alt="GIF" src="https://tenor.com/view/software-software-development-gif-24712790" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### I'm passionate about traveling, i'm in constant evolution and love challenges
 
@@ -13,11 +19,11 @@
 ### Talk to me:
 
 
-<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
-<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+[<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br>
@@ -35,3 +41,6 @@
 <br>
 <br>
 
+[instagram]: https://www.instagram.com/mattgueler/
+[linkedin]: https://www.linkedin.com/in/mateus-gueler-machado-2021/
+[twitter]: https://twitter.com/teusgueler
