@@ -1,15 +1,12 @@
+
+<img align="right" alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="500" height="320" />
+
 ## Hello!! Welcome to my page
 
 - 🔭 Physics student at Federal University of Espirito Santo
 - 💻 Full Stack web development student at Driven
 - 🐶 I have 4 dogs (Bob, Mel, Leka e Zoe), and i love animals
 - 😎 In love with beach and sun
-
-
-
-<img align="right" alt="GIF" src="https://tenor.com/view/software-software-development-gif-24712790" width="500" height="320" />
-
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### I'm passionate about traveling, i'm in constant evolution and love challenges
 
