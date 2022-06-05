@@ -1,7 +1,7 @@
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="500" height="320" />
-
 ## Hello!! Welcome to my page
+
+<img align="right" alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="400" height="300" />
 
 - 🔭 Physics student at Federal University of Espirito Santo
 - 💻 Full Stack web development student at Driven
