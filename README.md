@@ -15,12 +15,8 @@
 
 ### Talk to me:
 
-
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
-
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 <br>
 <br>
@@ -41,3 +37,4 @@
 <br>
 
 [linkedin]: https://www.linkedin.com/in/mateus-gueler-machado-2021/
+[Gmail]: mailto:mateus.gueler@gmail.com
