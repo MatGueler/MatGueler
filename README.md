@@ -29,6 +29,9 @@
 
 <br>
 
+[![Matt's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=matgueler&show_icons=true&bg_color=ffffff)](https://github-readme-stats.vercel.app/api?username=matgueler&show_icons=true&bg_color=ffffff)
+
+
 ### 📞 Contact to me:
 
 [<img align="left" alt="holisitc_developer | LinkedIn" height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />][linkedin]
